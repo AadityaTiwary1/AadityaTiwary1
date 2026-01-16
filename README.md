@@ -1,7 +1,7 @@
  
 
 ## 🚀 About Me  
-I am a passionate software developer with solid experience in **C++**, **C**, **Python**, **Java**, and **Data Structures & Algorithms** (DSA). I also have web development skills using **HTML**, **CSS**, and **JavaScript**, along with frameworks like **React** and **Spring Boot**. Additionally, I work with databases, primarily using **MySQL**.  
+I am a passionate software developer with solid experience in **C++**, **C**, **Python**, **Java**, and **Data Structures & Algorithms** (DSA). I also have web development skills using **HTML**, **CSS**, and **JavaScript**, along with frameworks like **React** and **Spring Boot**. Additionally, I work with databases, primarily using **MySQL** and **PostgreSQL**.  
 
 ---
 
