@@ -7,12 +7,12 @@ I am a passionate software developer with solid experience in **C++**, **C**, **
 
 ## 🔧 **Skills and Technologies**  
 ### Programming Languages  
-- C, C++, Python, Java  
+- C, C++, Python, Java, Dart
 
 ### Web Development  
 - Frontend: HTML, CSS, JavaScript, React  
-- Backend: Java (Spring Boot)  
-- Database: MySQL  
+- Backend: Java (Spring Boot), Python Flask 
+- Database: MySQL, PostgreSQL, MongoDB, Supabase
 
 ### Software Development  
 - DSA, Problem Solving, and Algorithm Design  
